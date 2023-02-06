@@ -1,0 +1,107 @@
+{
+  "@@locale": "es",
+  "homeAppBarTitle": "Mis Google Places",
+  "@homeAppBarTitle": {
+    "description": "Texto mostrado en la AppBar de la página de inicio."
+  },
+  "openSettingsErrorText": "No se pudo abrir Ajustes",
+  "@openSettingsErrorText": {
+    "description": "Texto mostrado cuando no se puede abrir Ajustes."
+  },
+  "locationPermissionNotGrantedText": "El permiso de ubicación no está otorgado.",
+  "@locationPermissionNotGrantedText": {
+    "description": "Texto mostrado cuando no se ha otorgado el permiso de ubicación."
+  },
+  "searchPlaceHintText": "Busca un lugar por nombre",
+  "@searchPlaceHintText": {
+    "description": "Texto de sugerencia mostrado en la barra de búsqueda de lugares en HomeView."
+  },
+  "noPlacesFoundText": "No se encontraron lugares con ese nombre.",
+  "@noPlacesFoundText": {
+    "description": "Texto mostrado cuando no se encontraron lugares de Google."
+  },
+  "pleaseTryAgainText": "Por favor, inténtalo de nuevo.",
+  "@pleaseTryAgainText": {
+    "description": "Texto que anima al usuario a intentar de nuevo una acción."
+  },
+  "locationNotAvailable": "Ubicación no disponible",
+  "@locationNotAvailable": {
+    "description": "Texto mostrado cuando la ubicación no está disponible."
+  },
+  "openSettingsText": "Abrir Ajustes",
+  "@openSettingsText": {
+    "description": "Texto que anima al usuario a abrir los Ajustes del dispositivo."
+  },
+  "getLocationText": "Obtener ubicación",
+  "@getLocationText": {
+    "description": "Texto que anima al usuario a obtener la ubicación actual del dispositivo."
+  },
+  "detailsWord": "Detalles",
+  "@detailsWord": {
+    "description": "Palabra detalles."
+  },
+  "placeRatingFromReviewsText": "{rating} de {reviewNumber} reseñas",
+  "@placeRatingFromReviewsText": {
+    "description": "Texto que muestra la calificación de un lugar de Google en base a sus reseñas.",
+    "placeholders": {
+      "rating": {
+        "type": "num"
+      },
+      "reviewNumber": {
+        "type": "num"
+      }
+    }
+  },
+  "noReviewsText": "No hay reseñas",
+  "@noReviewsText": {
+    "description": "Texto mostrado cuando un lugar de Google dado no tiene reseñas."
+  },
+  "unknownWord": "Desconocido",
+  "@unknownWord": {
+    "description": "Palabra Desconocido."
+  },
+  "placeDetailsTitle": "Detalles del Lugar",
+  "@placeDetailsTitle": {
+    "description": "Título de texto mostrado en la barra de aplicaciones de la página PlaceDetailsPage."
+  },
+  "genericErrorMessage": "Algo salió mal.",
+  "@genericErrorMessage": {
+    "description": "Mensaje de error genérico mostrado cuando algo sale mal."
+  },
+  "tryAgainText": "Inténtalo de nuevo",
+  "@tryAgainText": {
+    "description": "Texto que anima al usuario a intentar de nuevo una acción."
+  },
+  "moreInfoText": "Más información",
+  "@moreInfoText": {
+    "description": "Texto mostrado como título de una de las secciones de PlacesDetailsView."
+  },
+  "priceWord": "Precio",
+  "@priceWord": {
+    "description": "Palabra Precio"
+  },
+  "curbsidePickupWord": "Recogida en la Acera",
+  "@curbsidePickupWord": {
+    "description": "Palabra Recogida en la Acera"
+  },
+  "deliveryWord": "Entrega",
+  "@deliveryWord": {
+    "description": "Palabra Entrega"
+  },
+  "dineInWord": "Comedor",
+  "@dineInWord": {
+    "description": "Palabra Comedor"
+  },
+  "takeoutWord": "Para Llevar",
+  "@takeoutWord": {
+    "description": "Palabra Para Llevar"
+  },
+  "openingHoursText": "Horario de Apertura",
+  "@openingHoursText": {
+    "description": "Texto mostrado como título de una de las secciones de Detalles del lugar."
+  },
+  "noInfoAvailableText": "No hay información disponible",
+  "@noInfoAvailableText": {
+    "description": "Texto mostrado cuando no hay información disponible sobre el horario de apertura."
+  }
+}

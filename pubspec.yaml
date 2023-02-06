@@ -1,0 +1,49 @@
+name: my_google_places
+description: Flutter App ready to interact with the Google Places API.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+  flutter: 3.7.0
+
+dependencies:
+  bloc: ^8.1.0
+  bloc_concurrency: ^0.2.0
+  cached_network_image: ^3.2.3
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.1
+  flutter_localizations:
+    sdk: flutter
+  geolocator: ^9.0.2
+  geolocator_client:
+    path: packages/geolocator_client
+  google_places_client:
+    path: packages/google_places_client
+  google_places_models:
+    path: packages/google_places_models
+  google_places_repo:
+    path: packages/google_places_repo
+  intl: ^0.17.0
+  permission_client:
+    path: packages/permission_client
+  permission_handler: ^10.2.0
+  platform: ^3.1.0
+  rxdart: ^0.27.7
+  shimmer: ^2.0.0
+
+dev_dependencies:
+  bloc_test: ^9.1.0
+  flutter_test:
+    sdk: flutter
+  mocktail: ^0.3.0
+  mocktail_image_network: ^0.3.1
+  very_good_analysis: ^3.1.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - config/

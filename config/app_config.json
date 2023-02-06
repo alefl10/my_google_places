@@ -1,0 +1,5 @@
+{
+    "googleMapsApiKey_dev": "AIzaSyCukh52YpgoapeUF-Rmrt5BRD6P3rUYJ_M",
+    "googleMapsApiKey_stg": "TODO(you): ADD STG KEY",
+    "googleMapsApiKey_prod": "TODO(you): ADD PROD KEY"
+}

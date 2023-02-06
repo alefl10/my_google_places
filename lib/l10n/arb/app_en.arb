@@ -1,0 +1,107 @@
+{
+    "@@locale": "en",
+    "homeAppBarTitle": "My Google Places",
+    "@homeAppBarTitle": {
+        "description": "Text shown in the AppBar of the HomePage."
+    },
+    "openSettingsErrorText": "Could not open Settings",
+    "@openSettingsErrorText": {
+        "description": "Text shown when Settings could not be opened."
+    },
+    "locationPermissionNotGrantedText": "Location Permission is not granted.",
+    "@locationPermissionNotGrantedText": {
+        "description": "Text shown when Location Permission is not granted."
+    },
+    "searchPlaceHintText": "Search a place by name",
+    "@searchPlaceHintText": {
+        "description": "Hint text shown in the search place bar on the Home View."
+    },
+    "noPlacesFoundText": "No places where found with that name.",
+    "@noPlacesFoundText": {
+        "description": "Text shown when no Google places were found."
+    },
+    "pleaseTryAgainText": "Please, try again.",
+    "@pleaseTryAgainText": {
+        "description": "Text prompting the user to try again an action."
+    },
+    "locationNotAvailable": "Location not available",
+    "@locationNotAvailable": {
+        "description": "Text shown when location is not available."
+    },
+    "openSettingsText": "Open Settings",
+    "@openSettingsText": {
+        "description": "Text prompting the user to open the device's settings."
+    },
+    "getLocationText": "Get Location",
+    "@getLocationText": {
+        "description": "Text prompting the user to get the current device's location."
+    },
+    "detailsWord": "Details",
+    "@detailsWord": {
+        "description": "Details word."
+    },
+    "placeRatingFromReviewsText": "{rating} from {reviewNumber} reviews",
+    "@placeRatingFromReviewsText": {
+        "description": "Text displaying the rating for a given Google place based on its reviews.",
+				"placeholders": {
+					"rating": {
+							"type": "num"
+					},
+					"reviewNumber": {
+							"type": "num"
+					}
+			}
+    },
+		"noReviewsText": "No reviews",
+    "@noReviewsText": {
+        "description": "Text shown when a given Google place does not have any reviews."
+    },
+		"unknownWord": "Unknown",
+    "@unknownWord": {
+        "description": "Unknown word."
+    },
+		"placeDetailsTitle": "Place Details",
+    "@placeDetailsTitle": {
+        "description": "Text title shown on the PlaceDetailsPage AppBar."
+    },
+		"genericErrorMessage": "Something went wrong.",
+    "@genericErrorMessage": {
+        "description": "Generic error message shown when something goes wrong"
+    },
+		"tryAgainText": "Try again",
+    "@tryAgainText": {
+        "description": "Text prompting the user to try again an action."
+    },
+		"moreInfoText": "More Info",
+    "@moreInfoText": {
+        "description": "Text shown as the title for one of the Place Details sections."
+    },
+		"priceWord": "Price",
+    "@priceWord": {
+        "description": "Price word"
+    },
+		"curbsidePickupWord": "Curbside Pickup",
+    "@curbsidePickupWord": {
+        "description": "Curbside Pickup word"
+    },
+		"deliveryWord": "Delivery",
+    "@deliveryWord": {
+        "description": "Delivery word"
+    },
+		"dineInWord": "Dine In",
+    "@dineInWord": {
+        "description": "Dine In word"
+    },
+		"takeoutWord": "Takeout",
+    "@takeoutWord": {
+        "description": "Takeout word"
+    },
+		"openingHoursText": "Opening Hours",
+    "@openingHoursText": {
+        "description": "Text shown as the title for one of the Place Details sections."
+    },
+		"noInfoAvailableText": "No information available",
+    "@noInfoAvailableText": {
+        "description": "Text shown when no opening hours info is available."
+    }
+}

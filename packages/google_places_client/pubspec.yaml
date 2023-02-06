@@ -1,0 +1,17 @@
+name: google_places_client
+description: A Dart package implementing an http client to interact with the Google Places API.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  google_places_models:
+    path: ../google_places_models
+  http: ^0.13.5
+
+dev_dependencies:
+  mocktail: ^0.3.0
+  test: ^1.19.2
+  very_good_analysis: ^3.1.0
